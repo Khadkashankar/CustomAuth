@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+.home-text {
+    color: green;
+}
+
+.top-nav a.active {
+    color: blue !important;
+}
