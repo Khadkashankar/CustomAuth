@@ -1,11 +1,11 @@
-<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
+<div class="model fade" id="loginModel" tabindex="-1" role="dialog" aria-labelledby="loginModelLabel" aria-hidden="true">
+  <div class="model-dialog" role="document">
+    <div class="model-content">
 
-      <div class="modal-body">
+      <div class="model-body">
   Registration form
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      <div class="model-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="model">Close</button>
     
       </div>
     </div>

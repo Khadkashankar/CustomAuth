@@ -1,7 +1,7 @@
 @extends('layout.main-layout')
 @section('body')
 <div class="row">
-    <div class="col-md-12" align="center">
+    <div class="col-md-12 bg-light" align="center">
         <div class="jombotron">
             <div>
                 <p class="home-text">Please login or register</p>
