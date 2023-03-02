@@ -1,9 +1,9 @@
 $(".login_button").click(function () {
-    $("#registerModel").modal("hide");
-    $("#loginModel").modal("show");
+    $("#registerModel").model("hide");
+    $("#loginModel").model("show");
 });
 
-$(".register_button").on("click", function () {
-    $("#loginModel").modal("hide");
-    $("#registerModel").modal("show");
+$(".register_button").onclick(function () {
+    $("#loginModel").model("hide");
+    $("#registerModel").model("show");
 });
